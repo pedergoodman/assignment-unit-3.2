@@ -88,3 +88,8 @@ while (countUP <= 5){
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
+let countDown = 10
+while (countDown >= 5) {
+  console.log(countDown);
+  countDown--
+} 
