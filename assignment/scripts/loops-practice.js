@@ -40,6 +40,10 @@ for (let i=0; i<11; i++) {
 
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
 console.log('STRETCH: countdown from 5 to 0');
+for ( let i=5; i>=0; i-- ) {
+  console.log(i);
+}
+console.log('Times up!')
 
 
 // 2. For of loops  
